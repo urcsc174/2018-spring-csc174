@@ -31,13 +31,13 @@ This semester, CSC 174 is offered in two, parallel classes.  Students are requir
 
 There are five TAs for the two CSC 174 sections.  The TAs for CSC 174 are assigned to specific class times as follows...
 
-**The morning session:** Mondays and Wednesdays, 10:25 - 11:40 AM (CRN: 79073) in Gavett 208
+**The morning session (CRN: 79073):** Mondays and Wednesdays, 10:25 - 11:40 AM in Gavett 208
 
 - Rose Cricchio <rcricchi@u.Rochester.edu>
 - Ben Chomsang <schomsan@u.rochester.edu>
 - Ali Hashim <ahashim@u.rochester.edu>
 
-**The afternoon session:** Mondays and Wednesdays, 3:25 - 4:40 PM (CRN: 87329) in Goergen 102
+**The afternoon session (CRN: 87329):** Mondays and Wednesdays, 3:25 - 4:40 PM in Goergen 102
 
 - Jorge Vazquez Gonzalez <jvazque5@u.Rochester.edu>
 - Tarin Rickett <tricket2@u.rochester.edu>
@@ -55,10 +55,8 @@ Students may also use Slack to ask questions and get help from the TAs and profe
 - After the student has created their account, they can access the *CSC 174 Slack Workspace* here: [csc174.slack.com](https://csc174.slack.com/) 
   - Consider bookmarking that address
   - For faster access, consider installing the Slack application for Windows, Mac, iOS, or Android
+  - Also consider turning-on Slack notifications in the smartphone app; they can be customized so the student is not overwhelmed with notifications
 
-
-- Also consider turning-on Slack notifications in the smartphone app
-  - Notifications can be customized so the student is not overwhelmed with notifications
 
 ## Grading
 
@@ -81,17 +79,15 @@ For each assignment, a grading rubric is provided. Rubrics will inform students 
 | 60.00 to 63.99 | D-        |
 | 00.00 to 59.99 | E         |
 
-| Activity                                 | Weight of the final grade                |
-| ---------------------------------------- | ---------------------------------------- |
-| **Participation**<br>There are in-class exercises for which students are graded as *participation*.  Many of the exercises are pass/fail.  Each counts equally toward the total of 30%. | **30%**                                  |
-| **Assignments**<br />There are assignments usually every week at the discretion of the instructor.  Each assignment counts equally toward the total of 50% | **50%**                                  |
-| **Projects** (a.k.a. exams)<br>There are two projects (basically, a big assignment): a midterm and a final. The final project is not comprehensive, but given the nature of the topic it is important to know the course material from the first half of the semester.<br>NOTE: the final project is administered on the last day of classes and is due at the end of exams week. | **30%**<br>Midterm exam: 15%<br>Final exam: 15% |
+| Activity                                 | Weight of the final grade             |
+| ---------------------------------------- | ------------------------------------- |
+| **Participation**<br>There are in-class exercises for which students are graded as *participation*.  Many of the exercises are pass/fail.  Each counts equally toward the total of 30%. | **30%**                               |
+| **Assignments**<br />There are assignments usually every week at the discretion of the instructor.  Each assignment counts equally toward the total of 50% | **50%**                               |
+| **Projects** (a.k.a. exams)<br>There are two projects (basically, a big assignment): a midterm and a final. The final project is not comprehensive, but given the nature of the topic it is important to know the course material from the first half of the semester.<br>NOTE: the final project is administered on the last day of classes and is due at the end of exams week. | **30%**<br>Midterm: 15%<br>Final: 15% |
 
 ## Assignments and In-class Exercises
 
-### Lab Sessions
-
-This course uses a combined lecture/lab session.  Assignments are introduced and discussed during the same classroom time as the lecture, and time is set aside for students to work and get help.
+This course uses a combined lecture/lab format.  Assignments and in-class exercises are introduced and discussed during the same classroom time as the lecture, and time is set aside for students to work and get help on them.
 
 ### In-class Exercises
 
@@ -102,15 +98,15 @@ On the day when an in-class exercise is assigned, students must complete them in
 
 ### Assignments
 
-Assignments (previously referred to as "labs") are made available via [Slack](#communication) during the lectures and each is given a due date.  Assignments and can be completed in the dedicated lab time or independently on the student's own Internet-connected computer (Mac or PC).  
+Assignments (previously referred to as "labs") are made available via [Slack](#communication) during the lectures and each is given a due date.  Assignments and can be completed in the dedicated lab time (in the classroom) or independently on the student's own Internet-connected computer (Mac or PC).  
 
 ### Technical Help
 
 There are three ways students can get help on assignments.
 
 - From the TAs during dedicated work time in the lecture/lab classroom
-- In the professor's open lab times, listed in the [Open Office Hours](#office-hours) section, above
 - During the Professor's virtual office hours in [Slack](#communication)
+- In the professor's open lab times, listed in the [Open Office Hours](#office-hours) section, above
 
 
 ### Due Dates
@@ -133,7 +129,7 @@ Because of the dynamic nature of the web development industry, this course does 
 
 **Important:** Because attendence is not graded the student is on thier honor to go to all the lectures.  If a student is unable to attend a lecture, it is the student's responsibility to get the information missed from another student. (The TAs and the Professor will not re-teach a lecture.) 
 
-Students' inability to complete projects (i.e. exams), or complete assignments because of a missed lecture is not a valid excuse.
+Students' inability to complete assignments or projects (i.e. exams) because of a missed lecture is not a valid excuse.
 
 ### Personal Computer and Software
 
@@ -143,10 +139,17 @@ In addition to the hosted Web service, provided by the University, students will
 - FTP software
 - An updated, popular web browser
 - An Internet connection
+- A localhost "web stack" consisting of Apache, PHP, and MySQL software
 
 If a student does not have a personal computer with these capabilities, the University provides open labs at various locations on campus that they can use.  Those computers have all the required capabilities and software installed and they are supported by University IT.  
 
-For reference: during lectures the professor will be using a **Macbook** and **Windows PC** (alternatively) and a code editor: **Sublime Text, version 3** ([www.sublimetext.com/3](http://www.sublimetext.com/3)). For FTP demonstrations, the professor will use **Cyberduck** (for Mac, [cyberduck.io](http://cyberduck.io)) and **WinSCP** (for PC, [winscp.net/eng/download.php](http://winscp.net/eng/download.php)).  Demonstrations during the lecture and in labs will be done using **Google Chrome**.
+For reference: during lectures the professor will be using
+
+- a **Macbook** and **Windows PC** (alternatively) 
+- a code editor: **Sublime Text, version 3** ([www.sublimetext.com/3](http://www.sublimetext.com/3))
+- FTP software: **Cyberduck** (for Mac, [cyberduck.io](https://cyberduck.io/)) and **WinSCP** (for PC, [winscp.net/eng/download.php](http://winscp.net/eng/download.php))
+- a localhost, built by: **MAMP** (for Mac, [mamp.info/en](https://www.mamp.info/en/)) and **WampServer** (for PC, [wampserver.com/en](http://www.wampserver.com/en/))
+- Demonstrations during the lecture and in labs will be done using **Google Chrome**.
 
 ## Academic Honesty
 
