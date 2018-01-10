@@ -1,4 +1,6 @@
 # Course Documentation
+Advanced Front-end Web Design and Development
 
 - [Syllabus](syllabus.md)
-- [Assignment 1: coming soon]()
+- [Schedule](schedule.md)
+- [Lab 1: xxx](lab01-xxx/instructions.md)
