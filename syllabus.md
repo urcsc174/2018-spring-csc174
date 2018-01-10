@@ -149,11 +149,11 @@ For reference: during lectures the professor will be using
 - a code editor: **Sublime Text, version 3** ([www.sublimetext.com/3](http://www.sublimetext.com/3))
 - FTP software: **Cyberduck** (for Mac, [cyberduck.io](https://cyberduck.io/)) and **WinSCP** (for PC, [winscp.net/eng/download.php](http://winscp.net/eng/download.php))
 - a localhost, built by: **MAMP** (for Mac, [mamp.info/en](https://www.mamp.info/en/)) and **WampServer** (for PC, [wampserver.com/en](http://www.wampserver.com/en/))
-- Demonstrations during the lecture and in labs will be done using **Google Chrome**.
+- Demonstrations during the lectures will be done using **Google Chrome**.
 
 ## Academic Honesty
 
-Violation of the College's Honesty Policy is a serious violation of the trust upon which our academic community depends. A common form of academic dishonesty is plagiarism: the representation of another person’s work as one’s own, or the attempt “to blur the line between one’s own ideas or words and those borrowed from another source.” ([Council of Writing Program Administrators, January 2003,](http://wpacouncil.org/node/9)). More specifically for CSC 170, **computer code (HTML, CSS, PHP, or JavaScript) submitted for grading, that was copied from another source in part or whole without acknowledgment is plagiarism**.  To protect yourself, in the programming world, citations of sources may be placed in the "code comments" of submitted files.
+Violation of the College's Honesty Policy is a serious violation of the trust upon which our academic community depends. A common form of academic dishonesty is plagiarism: the representation of another person’s work as one’s own, or the attempt “to blur the line between one’s own ideas or words and those borrowed from another source.” ([Council of Writing Program Administrators, January 2003,](http://wpacouncil.org/node/9)). More specifically for CSC 174, **computer code (HTML, CSS, PHP, or JavaScript) submitted for grading, that was copied from another source in part or whole without acknowledgment is plagiarism**.  To protect yourself, in the programming world, citations of sources may be placed in the "code comments" of submitted files.
 
 ### Industry Practices
 
