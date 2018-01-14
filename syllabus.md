@@ -4,7 +4,7 @@
 
 This semester, CSC 174 is offered in two, parallel classes.  Students are required to attend the section in which they are registered.
 
-| CRN<br />(section) | Meeting time                             | Location    |
+| CRN<br>(section)   | Meeting time                             | Location    |
 | :----------------: | ---------------------------------------- | ----------- |
 |       79073        | Mondays and Wednesdays, 10:25 - 11:40 AM | Gavett 208  |
 |       87329        | Mondays and Wednesdays, 3:25 - 4:40 PM   | Goergen 102 |
@@ -82,7 +82,7 @@ For each assignment, a grading rubric is provided. Rubrics will inform students 
 | Activity                                 | Weight of the final grade             |
 | ---------------------------------------- | ------------------------------------- |
 | **Participation**<br>There are in-class exercises for which students are graded as *participation*.  Many of the exercises are pass/fail.  Each counts equally toward the total of 30%. | **30%**                               |
-| **Assignments**<br />There are assignments usually every week at the discretion of the instructor.  Each assignment counts equally toward the total of 50% | **50%**                               |
+| **Assignments**<br>There are assignments usually every week at the discretion of the instructor.  Each assignment counts equally toward the total of 50% | **50%**                               |
 | **Projects** (a.k.a. exams)<br>There are two projects (basically, a big assignment): a midterm and a final. The final project is not comprehensive, but given the nature of the topic it is important to know the course material from the first half of the semester.<br>NOTE: the final project is administered on the last day of classes and is due at the end of exams week. | **30%**<br>Midterm: 15%<br>Final: 15% |
 
 ## Assignments and In-class Exercises
@@ -115,9 +115,7 @@ For each assignment and project, the **due date** is shown near the top of the l
 
 ### Late assignments
 
-Late assignments will not be graded unless a *prior* arrangement has been made with one of the TAs or the professor to give you an **extension by one or two days **based on the discretion of the TA or Professor.  Extensions will only be granted two or three times, maximum, per semester, at the discretion of the professor. 
-
-The grade for assignments not turned-in on time with no prior arrangement for an extension will be zero.
+Late assignments will not be graded unless a *prior* arrangement has been made with one of the TAs or the professor to give you an **extension by one or two days** based on the discretion of the TA or Professor.  Extensions will only be granted two or three times, maximum, per semester, at the discretion of the professor. The grade for assignments not turned-in on time with no prior arrangement for an extension will be zero.
 
 ### Second chances
 
