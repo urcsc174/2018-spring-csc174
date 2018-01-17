@@ -4,10 +4,10 @@
 
 This semester, CSC 174 is offered in two, parallel classes.  Students are required to attend the section in which they are registered.
 
-| CRN<br>(section)   | Meeting time                             | Location    |
-| :----------------: | ---------------------------------------- | ----------- |
-|       79073        | Mondays and Wednesdays, 10:25 - 11:40 AM | Gavett 208  |
-|       87329        | Mondays and Wednesdays, 3:25 - 4:40 PM   | Goergen 102 |
+| CRN<br>(section) | Meeting time                             | Location    |
+| :--------------: | ---------------------------------------- | ----------- |
+|      79073       | Mondays and Wednesdays, 10:25 - 11:40 AM | Gavett 208  |
+|      87329       | Mondays and Wednesdays, 3:25 - 4:40 PM   | Goergen 102 |
 
 ## Instructor Information 
 - Instructor: **Professor Kostin**
@@ -33,7 +33,6 @@ There are five TAs for the two CSC 174 sections.  The TAs for CSC 174 are assign
 
 **The morning session (CRN: 79073):** Mondays and Wednesdays, 10:25 - 11:40 AM in Gavett 208
 
-- Rose Cricchio <rcricchi@u.Rochester.edu>
 - Ben Chomsang <schomsan@u.rochester.edu>
 - Ali Hashim <ahashim@u.rochester.edu>
 
@@ -41,6 +40,7 @@ There are five TAs for the two CSC 174 sections.  The TAs for CSC 174 are assign
 
 - Jorge Vazquez Gonzalez <jvazque5@u.Rochester.edu>
 - Tarin Rickett <tricket2@u.rochester.edu>
+- Rose Cricchio <rcricchi@u.Rochester.edu>
 
 The TAs will also be monitoring and providing assistance via [Slack](#communication).
 
