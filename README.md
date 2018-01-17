@@ -3,5 +3,6 @@ Advanced Front-end Web Design and Development
 
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)
-- [Assignment 1: xxx](lab01-xxx/instructions.md)
+- In-class assignment 1: [Introduction to Slack](inclass01-introduction-to-slack/instructions.md)
+
 
