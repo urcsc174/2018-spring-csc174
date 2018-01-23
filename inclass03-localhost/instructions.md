@@ -8,22 +8,15 @@
   - Alternatively be familiar with the installed WAMP or MAMP software on the University computers
   - Know where your web root folder is located in your file system
 
-- [ ] Build a two-page website using PHP includes
-  - One page about yourself
-  - Second page about your CSC 174 initial role selection
-  - Use PHP includes as necessary to factor-out redundant code (like top-part, navigation, anything else that makes sense to remove)
-  - NOTE: appearance or completeness
-  -  of the webpages does not matter at this point - only the existance of well-structured PHP includes
+- [ ] Build a website using at least one **PHP include**
 
-- Check your work at: http://localhost (Note: you will *not* need to upload this website to the class web server …yet.)
-
-
+- [ ] Check your work at: http://localhost (Note: you will *not* need to upload this website to the class web server)
 
 - [ ] Demonstrate your work for credit (pass/fail)
 
   - Show one of the TAs: 
-    - Your HTML files; your include files ...in the file system
-    - The two webpages running in a web browser under http://localhost
+    - Your HTML file and your include file in the file system
+    - The webpage running in a web browser under http://localhost
 
   - Due today or at the beginning of the next class
 
