@@ -2,11 +2,17 @@
 Advanced Front-end Web Design and Development
 
 - [Syllabus](syllabus.md)
-- [Schedule](schedule.md)
+- [Schedule](schedule.md) (you'll find the presentation files and other course materials here)
+
+
+<hr>
+
 - Current assignments you should be working on: 
+  - Assignment 2: Team Portfolio Website (coming soon)
+  - [Assignment 1: Initial Portfolio Website](assignment01-portfolio/instructions.md) (due Wednesday, January 24)
+- Previous assignments:
   - [In-class exercise 2: Initial Role](inclass02-initial-role/instructions.md)
   - [In-class exercise 3: Website on your localhost](inclass03-localhost/instructions.md)
-  - [Assignment 1: Initial Portfolio Website](assignment01-portfolio/instructions.md)
-- Previous assignment: [In-class exercise 1: Introduction to Slack](inclass01-introduction-to-slack/instructions.md)
+  - In-class exercise 1: Introduction to Slack](inclass01-introduction-to-slack/instructions.md)
 
 
