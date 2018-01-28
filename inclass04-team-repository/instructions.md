@@ -6,7 +6,7 @@
 
 - Join a "City Team" (if not already): [https://goo.gl/fs24U6](https://goo.gl/fs24U6)
 - One team member, typically the IA (Information Architect): create a *private* channel for your City Team in Slack.
-  - Name the channel: **assignment02-city** where "city" is your team's city name, e.g. "inclass04-SanFrancisco"
+  - Name the channel: **assignment02-city** where "city" is your team's city name, e.g. "assignment2-SanFrancisco"
   - Invite your team members
   - Invite the **Professor**
   - Invite ALL the TAs: **Ben**, **Ali**, **Jorge**, **Rose**, **Tarin**<br>(TAs: you might want to adjust your notification settings - it may get noisy!)
