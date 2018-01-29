@@ -2,7 +2,7 @@
 Advanced Front-end Web Design and Development
 
 - [Syllabus](syllabus.md)
-- [Schedule](schedule.md) (you'll find the presentation files and other course materials here)
+- [Schedule](schedule.md) <-- you'll find the presentation files and other course materials here
 
 
 <hr>
