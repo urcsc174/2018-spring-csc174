@@ -9,7 +9,7 @@ For this exercise you need to gather sets of content from three separate and ver
 - **Recommended:** go to Wikipedia.  Locate three different topics that interest you. 
 - Even though the sources need to be very different, think of some *common thread* - something they *do* have in common.  (Be creative.)  E.g. cars, trains, and airplanes …they're all modes of transportation
 
-Regarding *Information Architecture* here are the slides from the other day: [Information Architecture (PDF)](lecture04-information-architecture/information-architecture.pdf)
+Regarding *Information Architecture* here are the slides from the other day: [Information Architecture (PDF)](http://docs.urcsc174.org/lecture04-information-architecture/information-architecture.pdf)
 
 Regarding *markdown*, here are some references:
 
