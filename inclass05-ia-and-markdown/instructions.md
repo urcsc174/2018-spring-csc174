@@ -34,6 +34,7 @@ Regarding *markdown*, here are some references:
 - You need to embed at least three images somewhere in the document.
   - Create a subfolder named `media` and put the images in there 
 
+- All told, you should have a document with around 500-700 words or so.  (We're not going to count the words, but you should be in the ballpark.)
 
 *Hint: you need to create a structure with headings, paragraphs and other elements that shows commonality and/or differences as appropriate.  (Yes - this is the hard part of this exercise!)*
 
