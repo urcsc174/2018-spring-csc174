@@ -8,10 +8,10 @@ Advanced Front-end Web Design and Development
 <hr>
 
 - Current assignments you should be working on: 
+  - Assignment 2: [Team Portfolio Website](assignment02-team-portfolio/instructions.md) (Monday, February 12)
   - In-class exercise 5: [Information Architecture and Markdown](inclass05-ia-and-markdown/instructions.md) (due Monday, February 5)
-  - Assignment 2: Team Portfolio Website (coming soon)
 - Previous assignments:
-  - In-class exercise 4: [Setup a team repository in Github](inclass04-team-repository/instructions.md) (due Wednesday, January 24 …not Monday like previously stated)
+  - In-class exercise 4: [Setup a team repository in Github](inclass04-team-repository/instructions.md) (due Wednesday, January 24)
   - Assignment 1: [Initial Portfolio Website](assignment01-portfolio/instructions.md) (due Monday, January 29)
   - In-class exercise 3: [Website on your localhost](inclass03-localhost/instructions.md)
   - In-class exercise 2: [Initial Role](inclass02-initial-role/instructions.md)
