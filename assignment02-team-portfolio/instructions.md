@@ -45,6 +45,7 @@ Until we cover new technical development skills in CSC 174, the Coder simply nee
   - Don't forget: the navigation element must indicate which is the current page
 - The files and file system must be clean and follow industry best practices
 - Working with the IA, the JS plugin on the homepage needs to work well and be optimized. (Basically, just make sure it's installed properly.)  
+
 ## Workflow
 
 They way your team develops the website is up to you, but the professional process follows progressive steps.  You consider building the site this way:
