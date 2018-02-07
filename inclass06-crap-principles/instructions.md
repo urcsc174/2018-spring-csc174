@@ -29,6 +29,12 @@ Although the focus of this assignment is your understanding of the four visual p
   - Write words that points the user (your grader!) to the thing(s) they need to look at to see (#1) the principle, and (#2) how you represented it in your webpage.
   - Make it really clear, even if you think it's obvious.
 
+## Here's an example of what your webpage *might* look like
+
+NOTE: there are many ways to demonstrate your understanding of each of the four principles.  This is just one type of layout you can use.  Just keep in mind, your examples must reflect the **meaning of the content** ...just don't style things!
+
+![Figure 1](media/figure1.png)
+
 ## When you're done...
 
 - Upload this assignment to the class web server (anywhere, really)
