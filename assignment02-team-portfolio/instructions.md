@@ -77,3 +77,5 @@ They way your team develops the website is up to you, but the professional proce
 ## Submit the Assignment
 
 To get credit for your work, **one person on your team** (usually your IA) will submit a link to your website in Blackboard, in the assignment: **Assignment 2: Team Portfolio Website**
+
+Also in Blackboard, when you submit the link to the website, submit a link to the repository the team used.  (Make sure the repository is "public")
