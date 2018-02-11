@@ -1,15 +1,15 @@
 # Assignment 2: Team Portfolio Website
-*Due: Monday, February 12, 2018* (The due date for this assignment was moved out due to the confusion caused by our experiment with GitHub Classroom.  Sorry about that!)
+*Due: Monday, February 12, 2018* (The due date for this assignment was moved out due to the confusion caused by our experiment with *GitHub Classroom*.  Sorry about that!)
 
 The goal of this assignment is to work as a web development team (IA, Designer, Coder) and cobble together three student portfolio websites into one, cohesive *four page* website.  (It'll be three pages, each representing a student, plus an index/home page.)
 
+Even though this is a team assignment you will be graded as an individual for your specific role in building this website.
+
 # Requirements
 
-Each team role will have a separate rubric by which each student will get a separate grade.
+NOTE: the Information Architect (IA) role is the primary focus of this assignment.  The IA will get the greatest scrutiny when being graded.  Eventually, everyone must perform the role of IA during the semester and be graded under the same rubric.
 
 ### Information Architect
-
-NOTE: this is the primary focus of this assignment.  The IA will get the greatest scrutiny when being graded
 
 
 - Re-architect the content following the principles of Information Architecture
@@ -20,7 +20,7 @@ NOTE: this is the primary focus of this assignment.  The IA will get the greates
 - The IA creates the three pages - each representing a student.  (This is where the hard work of an IA goes!)
 - The IA also creates an "home" page to act as an index to the other three pages.
 
-  - The homepage should (actually, must) be structured differently from the rest of the website; it must also follow the principles of Information Architecture to a lesser extent ...you just have to really think about what goes where, for reasons of good IA.
+  - The homepage must be structured differently from the rest of the website; it must also follow the principles of Information Architecture to a lesser extent ...you just have to really think about what goes where, for reasons of good IA.
   - The homepage must feature a JavaScript plugin - slideshow, gallery are obvious choices, but you can do something else.  NOTE: the IA can decide what goes there, but it will be the coder to implement it.  (The IA and the coder should probably work closely together on this!)
 
 #### Colophon - readme.md
@@ -29,6 +29,7 @@ A "colophon" is an old fashioned term for an extra page that describes how the p
 
 - The IA will also create a `readme.md` file in the repository (not part of the actual website) that describes who did what in this assignment.  
 - You can also use the colophon to describe any interesting aspects of the website, e.g. a JavaScript plugin or CSS library that you're particularly proud of.
+- You can also use the colophon to indicate the specific things that were done by the members of the team.  This is useful if team members needed to go above and beyond their own stated role.  (The professor will give credit to whoever did the actual work.)
 
 ### Design Artist
 
@@ -44,7 +45,7 @@ Until we cover new technical development skills in CSC 174, the Coder simply nee
 - The website must use **PHP Includes** to factor-out common elements, e.g. the navigation element
   - Don't forget: the navigation element must indicate which is the current page
 - The files and file system must be clean and follow industry best practices
-- Working with the IA, the JS plugin on the homepage needs to work well and be optimized. (Basically, just make sure it's installed properly.)  
+- Working with the IA, the JS plugin on the homepage needs to work well and be optimized. (Basically, make sure it's installed properly.)  
 
 ## Workflow
 
@@ -76,6 +77,26 @@ They way your team develops the website is up to you, but the professional proce
 
 ## Submit the Assignment
 
-To get credit for your work, **one person on your team** (usually your IA) will submit a link to your website in Blackboard, in the assignment: **Assignment 2: Team Portfolio Website**
+This process is a little different than usual because of the separate grades you'll receive for your part in the team website.  You will *each* create your own submission in Blackboard using the *assignment* that relates to the role you did.
 
-Also in Blackboard, when you submit the link to the website, submit a link to the repository the team used.  (Make sure the repository is "public")
+- Create a Blackboard submission in: **Assignment 2: Team Portfolio Website (IA *or* Designer *or* Coder)** based on whatever you did.
+- In the "Write Submission" area, submit a **link to the website** on the class web server
+- Also write-in 
+  - The **city-name** of your team
+  - The names of **each team member** and the **role** they performed (including your own)
+- Also, submit a **link to the repository** the team used.  (Make sure the repository is "public")
+
+### Extra Credit
+
+If you feel you did most or all of another team members job (for whatever reason) you may also make another submission
+
+-  Use another one of the **Assignment 2…** assignments in Blackboard: **…IA**, **...Designer**, **...Coder** as you see fit
+
+- Again, in the "Write Submission" area, submit a **link to the website** on the class web server
+- Also write-in 
+  - The **city-name** of your team
+  - The names of **each team member** and the **role** they performed (including your own)
+- Submit a **link to the repository** the team used.  (Make sure the repository is "public")
+- Also (this is different): explain - however you want - the situation and how you ended up doing part or all of another role.
+
+The professor will protect your anonymity as need be and award points for whoever actually did the work.
