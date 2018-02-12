@@ -8,9 +8,10 @@ Advanced Front-end Web Design and Development
 <hr>
 
 - Current assignments you should be working on: 
+  - Team Assignment 3: Updated Team Portfolio Website (coming soon)
+- Previous assignments:
   - Individual In-class exercise 6: [CRAP Principles](inclass06-crap-principles/instructions.md) (due today, in-class)
   - Team Assignment 2: [Team Portfolio Website](assignment02-team-portfolio/instructions.md) (Monday, February 12)
-- Previous assignments:
   - Individual In-class exercise 5: [Information Architecture and Markdown](inclass05-ia-and-markdown/instructions.md) (due Monday, February 5)
   - Team In-class exercise 4: [Setup a team repository in Github](inclass04-team-repository/instructions.md) (due Wednesday, January 24)
   - Individual Assignment 1: [Initial Portfolio Website](assignment01-portfolio/instructions.md) (due Monday, January 29)
