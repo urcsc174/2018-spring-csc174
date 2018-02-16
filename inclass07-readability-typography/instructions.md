@@ -6,7 +6,7 @@ In this exercise you will take existing content with an pre-established layout a
 
 ## Step 1: Start with the Starter Files
 
-- Download and open the [starter files here (ZIP)](inclass07-readability-typography/starter-files-7.zip)
+- Download and open the [starter files here (ZIP)](starter-files-7.zip)
 
 In the starter files you'll find existing content in a pre-established layout.
 
