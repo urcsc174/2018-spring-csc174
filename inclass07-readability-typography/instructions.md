@@ -24,7 +24,10 @@ The key to this exercise is to *not* randomly apply styles like we did in CSC 17
 
 ### Explain Your Choices
 
-As you complete the requirements (below), you need to: **write comments in the CSS file that explain the rationale for each set of styles you write.**  Relate each style to the things we covered in class having to do with typography and readability.  
+As you complete the requirements (below), you need to: **write comments in the CSS file that explain the rationale for each set of styles you write.**  
+
+- Relate each style to the things we covered in class having to do with typography and readability.  
+- Explain not just what you did, but **why**
 
 Examples:
 
