@@ -31,14 +31,16 @@ Examples:
 - explain the typefaces you chose...
 
 ```css
-/* I picked these typefaces, monsarrat and finociario, becuase they portray a mood of...
-   (and so on) */
+/* I picked these typefaces, monsarrat and finociario, becuase 
+   they portray a mood of... (and so on) */
 ```
 
 - explain style that improves readability...
 
 ```css
-/* I added padding to these elements to move the content away from the border, increasing readability of the section... (and so on) */
+/* I added padding to these elements to move the content away 
+   from the border, increasing readability of the section... 
+   (and so on) */
 ```
 
 EVERY addition to the CSS needs to be explained in comments!
