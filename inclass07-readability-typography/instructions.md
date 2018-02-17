@@ -22,12 +22,40 @@ Try this:
 
 The key to this exercise is to *not* randomly apply styles like we did in CSC 170, rather use reasons and a rationale to apply just the right styles in just the right ways to make the webpage more legible and readable.  
 
+### Explain Your Choices
+
+As you complete the requirements (below), you need to: **write comments in the CSS file that explain the rationale for each set of styles you write.**
+
+Examples:
+
+- explain the typefaces you chose...
+
+```css
+/* I picked these typefaces, monsarrat and finociario, becuase they portray a mood of...
+   (and so on) */
+```
+
+- explain EACH application of the box model...
+
+```css
+/* I added padding to these elements to move the content away from the border, increasing readability of the section... (and so on) */
+```
+
+EVERY addition to the CSS needs to be explained in comments!
+
+### Requirements
+
+Using CSS, you need to make these improvements.
+
 - Improve the legibility and readability of this webpage using CSS
+
 - Install two custom fonts
   - Beware!  Make sure the fonts pair well and actually make sense considering the content
   - Focus on legibility and readability
+
 - Apply styles to improve the design, focusing on the CRAP principles
-- DO NOT bother applying a layout; just use the one provided (a combination of CSS Grid and CSS Flex)
+
+Note: do not bother applying a layout; just use the one provided (a combination of CSS Grid and CSS Flex)
 
 ## When you're done...
 
