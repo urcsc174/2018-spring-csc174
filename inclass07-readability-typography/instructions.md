@@ -31,7 +31,7 @@ Examples:
 - explain the typefaces you chose...
 
 ```css
-/* I picked these typefaces, monsarrat and finociario, becuase 
+/* I picked these typefaces, monsarrat and finociario, because 
    they portray a mood of... (and so on) */
 ```
 
