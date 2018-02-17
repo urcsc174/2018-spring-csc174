@@ -24,7 +24,7 @@ The key to this exercise is to *not* randomly apply styles like we did in CSC 17
 
 ### Explain Your Choices
 
-As you complete the requirements (below), you need to: **write comments in the CSS file that explain the rationale for each set of styles you write.**
+As you complete the requirements (below), you need to: **write comments in the CSS file that explain the rationale for each set of styles you write.**  Relate each style to the things we covered in class having to do with typography and readability.  
 
 Examples:
 
@@ -35,7 +35,7 @@ Examples:
    (and so on) */
 ```
 
-- explain EACH application of the box model...
+- explain style that improves readability...
 
 ```css
 /* I added padding to these elements to move the content away from the border, increasing readability of the section... (and so on) */
