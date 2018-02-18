@@ -17,7 +17,7 @@ The **Technical Coder** will only be held to the standards and best practices of
 
 The team is responsible for delivering another four page website: an index page plus three student pages.
 
-- The index must function as an index, meaning it is summarizes the website and leads the website visitor to the other webpages
+- The index must function as an index, meaning that it summarizes the website and leads the website visitor to the other webpages
 - The index page must have a JavaScript-powered feature that provides a visual element, like a slideshow, gallery, accordion ...anything like that
 - The three student pages must exist as three separate entities and follow the same architecture
 - All best practices must be followed - too many to list; it is assumed that all students who took CSC 170 are familiar with them and everything that's been covered to-date in CSC 174
