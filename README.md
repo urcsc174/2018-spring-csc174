@@ -8,9 +8,9 @@ Advanced Front-end Web Design and Development
 <hr>
 
 - Current assignments you should be working on:
-  - Individual In-class exercise 7: [Readability and Typography](inclass07-readability-typography/instructions.md) 
   - Team Assignment 3: [Updated Team Portfolio Website](assignment03-updated-team-portfolio/instructions.md) (due Wednesday, February 28)
 - Previous assignments:
+  - Individual In-class exercise 7: [Readability and Typography](inclass07-readability-typography/instructions.md) 
   - Individual In-class exercise 6: [CRAP Principles](inclass06-crap-principles/instructions.md) 
   - Team Assignment 2: [Team Portfolio Website](assignment02-team-portfolio/instructions.md) 
   - Individual In-class exercise 5: [Information Architecture and Markdown](inclass05-ia-and-markdown/instructions.md)
