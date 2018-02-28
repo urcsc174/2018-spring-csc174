@@ -8,8 +8,9 @@ Advanced Front-end Web Design and Development
 <hr>
 
 - Current assignments you should be working on:
-  - Team Assignment 3: [Updated Team Portfolio Website](assignment03-updated-team-portfolio/instructions.md) (due Wednesday, February 28)
+  - Individual In-class exercise 9: Intro to PHP and MySQL (see instructions in Blackboard)
 - Previous assignments:
+  - Team Assignment 3: [Updated Team Portfolio Website](assignment03-updated-team-portfolio/instructions.md) 
   - Individual In-class exercise 8: [Frameworks](inclass08-frameworks/instructions.md)  
   - Individual In-class exercise 7: [Readability and Typography](inclass07-readability-typography/instructions.md) 
   - Individual In-class exercise 6: [CRAP Principles](inclass06-crap-principles/instructions.md) 
