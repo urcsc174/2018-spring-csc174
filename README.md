@@ -8,7 +8,7 @@ Advanced Front-end Web Design and Development
 <hr>
 
 - Current assignments you should be working on:
-  - Individual In-class exercise 9: Intro to PHP and MySQL (see instructions in Blackboard)
+  - [In-class Exercise 9: Databases and HTML Forms, HTML Tables](inclass09-databases-html-forms-tables/instructions.md)
 - Previous assignments:
   - Team Assignment 3: [Updated Team Portfolio Website](assignment03-updated-team-portfolio/instructions.md) 
   - Individual In-class exercise 8: [Frameworks](inclass08-frameworks/instructions.md)  
