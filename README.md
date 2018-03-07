@@ -8,8 +8,10 @@ Advanced Front-end Web Design and Development
 <hr>
 
 - Current assignments you should be working on:
-  - [In-class Exercise 9: Databases and HTML Forms, HTML Tables](inclass09-databases-html-forms-tables/instructions.md)
+  - [Sign-up sheet for Assignment 4](https://docs.google.com/spreadsheets/d/1o8xkrskHeRmJHOH0WlPXtnX0IMNhP_ximH3XH1RNxGQ/edit#gid=0)
+  - In-class Exercise (not graded): Remote Database Test
 - Previous assignments:
+  - Individual In-class Exercise 9: [Databases and HTML Forms, HTML Tables](inclass09-databases-html-forms-tables/instructions.md)
   - Team Assignment 3: [Updated Team Portfolio Website](assignment03-updated-team-portfolio/instructions.md) 
   - Individual In-class exercise 8: [Frameworks](inclass08-frameworks/instructions.md)  
   - Individual In-class exercise 7: [Readability and Typography](inclass07-readability-typography/instructions.md) 
