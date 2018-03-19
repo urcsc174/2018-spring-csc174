@@ -4,6 +4,9 @@
 
 The goal of this assignment is to build on a previous IA while adding new, contrasting content while at the same time adding an HTML form that captures relevant information into a database.
 
+- Note: the idea of "build on a previous IA..." means you should consider FORKing the previous city-team's GitHub repository as a place to start.  It's not required but it may help.
+- Refer to [this list (Google Sheet)](https://docs.google.com/spreadsheets/d/1o8xkrskHeRmJHOH0WlPXtnX0IMNhP_ximH3XH1RNxGQ/edit#gid=0) to find the previous city-team's repository
+
 This is a **team assignment**, however you will be graded for the work you do as an individual within the team.  
 
 ## Requirements
