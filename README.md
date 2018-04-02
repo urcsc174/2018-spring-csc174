@@ -9,9 +9,8 @@ Advanced Front-end Web Design and Development
 - Current assignments you should be working on:
   - [Midterm Exam (a take home project)](midterm-exam/instructions.md) Due: Wednesday, April 11, 2018
   - [Sign-up sheet for Assignment 4](https://docs.google.com/spreadsheets/d/1o8xkrskHeRmJHOH0WlPXtnX0IMNhP_ximH3XH1RNxGQ/edit#gid=0)
-  - Team Assignment 4: [Odd Team Member](assignment04-odd-team-member/instructions.md)
-    - Final website due: Monday, April 2
 - Previous assignments:
+  - Team Assignment 4: [Odd Team Member](assignment04-odd-team-member/instructions.md)
   - In-class Exercise (not graded): Remote Database Test
   - Individual In-class Exercise 9: [Databases and HTML Forms, HTML Tables](inclass09-databases-html-forms-tables/instructions.md)
   - Team Assignment 3: [Updated Team Portfolio Website](assignment03-updated-team-portfolio/instructions.md) 
