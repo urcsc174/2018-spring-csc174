@@ -7,8 +7,9 @@ Advanced Front-end Web Design and Development
 <hr>
 
 - Current assignments you should be working on:
-  - [Midterm Exam (a take home project)](midterm-exam/instructions.md) Due: Wednesday, April 11, 2018
+  - In-class exercise 11: [Login System](inclass11-login-system/instructions.md)
 - Previous assignments:
+  - [Midterm Exam (a take home project)](midterm-exam/instructions.md) Due: Wednesday, April 11, 2018
   - In-class exercise 10: [WordPress](inclass10-wordpress/instructions.md)
   - Team Assignment 4: [Odd Team Member](assignment04-odd-team-member/instructions.md)
   - In-class Exercise (not graded): Remote Database Test
