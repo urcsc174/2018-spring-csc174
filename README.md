@@ -7,6 +7,7 @@ Advanced Front-end Web Design and Development
 <hr>
 
 - Current assignments you should be working on:
+  - Team Assignment 5: [User Survey Website](assignment05-user-survey/instructions.md):<br>- IA due: Monday, April 23<br>- Website due: Monday, April 30
   - In-class exercise 12: [Editable HTML Tables](inclass12-editable-html-tables/instructions.md) (due: Wednesday, April 18)
 - Previous assignments:
   - In-class exercise 11: [Login System](inclass11-login-system/instructions.md)
