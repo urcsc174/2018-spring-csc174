@@ -79,11 +79,11 @@ For each assignment, a grading rubric is provided. Rubrics will inform students 
 | 60.00 to 63.99 | D-        |
 | 00.00 to 59.99 | E         |
 
-| Activity                                 | Weight of the final grade             |
-| ---------------------------------------- | ------------------------------------- |
-| **Participation**<br>There are in-class exercises for which students are graded as *participation*.  Many of the exercises are pass/fail.  Each counts equally toward the total of 30%. | **30%**                               |
-| **Assignments**<br>There are assignments usually every week at the discretion of the instructor.  Each assignment counts equally toward the total of 50% | **50%**                               |
-| **Projects** (a.k.a. exams)<br>There are two projects (basically, a big assignment): a midterm and a final. The final project is not comprehensive, but given the nature of the topic it is important to know the course material from the first half of the semester.<br>NOTE: the final project is administered on the last day of classes and is due at the end of exams week. | **30%**<br>Midterm: 15%<br>Final: 15% |
+| Activity                                                     | Weight of the final grade                                    |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Participation**<br>There are in-class exercises for which students are graded as *participation*.  Many of the exercises are pass/fail.  Each counts equally toward the total of 30%. | **30%**                                                      |
+| **Assignments**<br>There are assignments usually every week at the discretion of the instructor.  Each assignment counts equally toward the total of 50% | **50%**                                                      |
+| **Projects** (a.k.a. exams)<br>There are two projects (basically, a big assignment): a midterm and a final. The final project is not comprehensive, but given the nature of the topic it is important to know the course material from the first half of the semester.<br>NOTE: the final project is administered on the last day of classes and is due at the end of exams week. | **20%**<br>Midterm: 10%<br>Final (extra credit, optional): 10% |
 
 ## Assignments and In-class Exercises
 
