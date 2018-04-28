@@ -73,11 +73,11 @@ NOTE one thing about this website that will *not* be real-worldy: IT IS OKAY tha
 
 ## Submit the Assignment
 
-You will *each* create your own submission in Blackboard using the *assignment* that relates to the role you did.
+You will *each* create your own submission in Blackboard.
 
-- Create a Blackboard submission in: **Assignment 5: User Survey Website (IA *or* Designer *or* Coder)** based on whatever you did.
+- Everyone needs to create their own Blackboard submission in: **Assignment 5: User Survey Website**
 - In the "Write Submission" area, submit a **link to the website** on the class web server
 - Also write-in 
   - The **city-name** of your team
   - The names of **each team member** and the **role** they performed (including your own)
-- Also, submit a **link to the repository** the team used.  (Make sure the repository is "public")
+  - Also, submit a **link to the repository** the team used.  (Make sure the repository is "public")
