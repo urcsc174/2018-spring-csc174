@@ -7,9 +7,16 @@ Advanced Front-end Web Design and Development
 <hr>
 
 - Current assignments you should be working on:
-  - Team Assignment 5: [User Survey Website](assignment05-user-survey/instructions.md):<br>- IA due: Monday, April 23<br>- Website due: Monday, April 30
-  - In-class exercise 12: [Editable HTML Tables](inclass12-editable-html-tables/instructions.md) (due: Wednesday, April 18)
+  - Optional Final Assignment:
+    1. [IA only](final-exam/instructions_assignment-1.md)
+    2. [IA and Designer](final-exam/instructions_assignment-2.md)
+    3. [IA, Designer, and Coder](final-exam/instructions_assignment-3.md)
+    4. [Designer and Coder](final-exam/instructions_assignment-4.md)
+    5. [Coder only](final-exam/instructions_assignment-5.md)
+    6. [Designer only](final-exam/instructions_assignment-6.md)
 - Previous assignments:
+  - Team Assignment 5: [User Survey Website](assignment05-user-survey/instructions.md)
+  - In-class exercise 12: [Editable HTML Tables](inclass12-editable-html-tables/instructions.md)
   - In-class exercise 11: [Login System](inclass11-login-system/instructions.md)
   - [Midterm Exam (a take home project)](midterm-exam/instructions.md) 
   - In-class exercise 10: [WordPress](inclass10-wordpress/instructions.md)
