@@ -46,6 +46,6 @@ The professor will reply with a ZIP file that contains the files around which yo
 
 Do **not** upload your files to the class webserver or share your files in any way.  
 
-- [ ] ZIP (compress) your files (HTML, images, readme.md files only)
-- Please *downsample* your image files if necessary.  Do not send files over 1MB.)
+- [ ] ZIP (compress) your files (HTML, images only)
+
 - [ ] Upload your ZIP'd file to the assignment in Blackboard titled: **Final Assignment 6** on or before the due date.
