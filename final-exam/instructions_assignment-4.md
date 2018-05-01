@@ -45,8 +45,8 @@ The professor will reply with a ZIP file that contains the files around which yo
 
 ## Step 3: Install the Behavior Layer
 
-- [ ] Using your localhost, create of a **MySQL database** for powering the HTML forms using **PHP**
-  - One HTML form for the **User Survey**
+- [ ] Using your localhost, create a **MySQL database** for powering the HTML forms using **PHP**
+  - One HTML form for the **Contact Form**
   - One HTML form for the **User Account Creation** process 
   - One HTML form for the the **User Login** Process
   - As many HTML forms and PHP scripts as necessary to enable the **four database functions** (described earlier) in the administration area
@@ -57,7 +57,6 @@ The professor will reply with a ZIP file that contains the files around which yo
 Do **not** upload your files to the class webserver or share your files in any way.  
 
 - Export your MySQL database on your localhost to a file named **export.sql**
-
 
 - [ ] ZIP (compress) all your files (including the .sql file) into a single ZIP file
 - [ ] Upload your ZIP'd file to the assignment in Blackboard titled: **Final Assignment 4** on or before the due date.

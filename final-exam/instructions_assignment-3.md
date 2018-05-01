@@ -91,8 +91,8 @@ Note: you **do not** have to create a readme.md file to describe your own intend
 
 Note: you **do not** have to create a readme.md file to describe behaviors.  In this case, you'll simply *do* what the the IA would typically write in a readme file.
 
-- [ ] Using your localhost, create of a **MySQL database** for powering the HTML forms using **PHP**
-  - One HTML form for the **User Survey**
+- [ ] Using your localhost, create a **MySQL database** for powering the HTML forms using **PHP**
+  - One HTML form for the **Contact Form**
   - One HTML form for the **User Account Creation** process 
   - One HTML form for the the **User Login** Process
   - As many HTML forms and PHP scripts as necessary to enable the **four database functions** (described earlier) in the administration area
@@ -103,7 +103,6 @@ Note: you **do not** have to create a readme.md file to describe behaviors.  In 
 Do **not** upload your files to the class webserver or share your files in any way.  
 
 - Export your MySQL database on your localhost to a file named **export.sql**
-
 
 - [ ] ZIP (compress) all your files (including the .sql file) into a single ZIP file
 - [ ] Upload your ZIP'd file to the assignment in Blackboard titled: **Final Assignment 3** on or before the due date.
