@@ -79,6 +79,8 @@ For each assignment, a grading rubric is provided. Rubrics will inform students 
 | 60.00 to 63.99 | D-        |
 | 00.00 to 59.99 | E         |
 
+### Grade Weights
+
 | Activity                                                     | Weight of the final grade |
 | ------------------------------------------------------------ | ------------------------- |
 | **Participation**<br>There are in-class exercises for which students are graded as *participation*.  Many of the exercises are pass/fail.  Each counts equally toward the total of 30%. | **35%**                   |
